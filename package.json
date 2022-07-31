@@ -2,7 +2,7 @@
 +{
 +  "name": "header-parser",
 +  "version": "1.0.0",
-+  "description": "A project that does something awesome",
++  "description": "A project that teaches people the ability to make meaningful contribution to software projects",
 +  "main": "index.js",
 +  "scripts": {
 +    "test": "echo \"Error: no test specified\" && exit 1"
